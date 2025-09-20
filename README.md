@@ -53,7 +53,8 @@ This tool solves those issues by providing a **centralized solution** for librar
 
 ## 📸 Screenshots
 
-![Uploading image.png…]()
+<img width="1376" height="1006" alt="image" src="https://github.com/user-attachments/assets/c7e9fa80-2882-4080-ad02-e35080fe0b34" />
+
 
 
 *(Add more screenshots or GIFs in `docs/` for a better visual guide.)*
