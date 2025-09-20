@@ -53,7 +53,8 @@ This tool solves those issues by providing a **centralized solution** for librar
 
 ## 📸 Screenshots
 
-![Library Browser Screenshot](docs/screenshot.png)
+![Uploading image.png…]()
+
 
 *(Add more screenshots or GIFs in `docs/` for a better visual guide.)*
 
