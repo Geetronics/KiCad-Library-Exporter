@@ -53,11 +53,9 @@ This tool solves those issues by providing a **centralized solution** for librar
 
 ## 📸 Screenshots
 
-<img width="1376" height="1006" alt="image" src="https://github.com/user-attachments/assets/c7e9fa80-2882-4080-ad02-e35080fe0b34" />
+<img width="1352" height="999" alt="image" src="https://github.com/user-attachments/assets/0651f82b-62be-49cb-ad5c-078d09462c38" />
 
 
-
-*(Add more screenshots or GIFs in `docs/` for a better visual guide.)*
 
 ---
 
@@ -83,8 +81,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 🔗 Links
 
-- 📥 [Download Latest Release](https://github.com/yourusername/yourrepo/releases)  
-- 🐙 [GitHub Repository](https://github.com/yourusername/yourrepo)  
-- 💬 Contact / Discussions
