@@ -45,7 +45,7 @@ This tool solves those issues by providing a **centralized solution** for librar
 
 ## 📦 Installation
 
-1. Download the latest release from the [Releases page](KiCad Library Exporter.exe)  
+1. Download the latest release from the [Releases page](https://github.com/Geetronics/KiCad-Library-Exporter/blob/main/KiCad%20Library%20Exporter.exe)  
 2. Run the standalone executable  
 3. Start browsing & exporting your libraries — no setup required!
 
